@@ -157,4 +157,6 @@ There are tons more Python packages that can likely fill in the gap while we pat
 
 I'll add some experiments that show how to have Pyodide and WebR talk to each other, but I think most folks who are following along can figure that out without me.
 
+Source is up [on GitHub](https://github.com/hrbrmstr/webr-pyodide).
+
 <p style="text-align:center;margin-top:2rem;">Brought to you by @hrbrmstr</p>

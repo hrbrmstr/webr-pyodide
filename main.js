@@ -4,17 +4,6 @@
 
 import "./wc/status-message.js"
 
-// we need to render the markdown as quickly as possible
-import { renderMarkdownInBody } from "./renderers.js";
-
-await renderMarkdownInBody(
-	`main`,
-	"ayu-dark",
-	[ 'javascript', 'html' ],
-	false
-)
-
-
 let message = document.getElementById("status");
 message.text = "WebR Loading…"
 

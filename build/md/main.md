@@ -15,7 +15,11 @@
   "twitter": {
     "site": "@hrbrmstr",
     "domain": "rud.is"
-  }
+  },
+	"extra_header_bits": [
+		"<script type='module' src='./main.js'></script>",
+		"<link href='./css/style.css' rel='stylesheet'>"
+	]
 }
 ---
 
